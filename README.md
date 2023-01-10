@@ -17,5 +17,3 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
-
-Check it out here <a href=file:///C:/Users/leong/bootcamp/Code-Quiz/Web-APIs-Challenge-Code-Quiz/index.html 
